@@ -13,11 +13,11 @@ Given a set of features and a target, it can learn a non-linear function approxi
 It is different from logistic regression, in that between the input and the output layer, there can be one or more non-linear layers, called hidden layers.
 
 ## Results
-The trained data will be the [!MINST dataset](/assets/mnist-img/MnistExamples.png)
+The trained data will be the ![MINST dataset](/assets/mnist-img/MnistExamples.png)
 
 ## Expected Output !!! CPU - HEAVY !!!
 
-[!Figure_1](/assets/Figure_1.png)
+![Figure_1](/assets/Figure_1.png)
 
 
 
