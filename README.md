@@ -19,6 +19,17 @@ The trained data will be the [!MINST dataset](/assets/mnist-img/MnistExamples.pn
 
 [!Figure_1](/assets/Figure_1.png)
 
+
+
+## Usage
+```bash
+
+source .venv/bin/activate
+
+python3 src/nn.py
+
+```
+
 <br>
 
 [The Sauce](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
